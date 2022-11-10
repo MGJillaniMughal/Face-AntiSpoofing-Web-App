@@ -1,5 +1,7 @@
+pip
 cmake
 opencv-python
+streamlit
 streamlit-webrtc
 tensorflow
 imutils
